@@ -3,11 +3,11 @@
 
 2.Mamlakatlar ichidan 6 belgidan iborat davlatlarni bitta arrayga olib Mamlakatlar ro'yhatidan o'chiring.
 
-3.Mamlakatlar ichidan G harfi bilan boshlangan davlatlarni bitta arrayga olib Mamlakatlar ro'yhatidan o'chiring.
+3.Mamlakatlar ichidan G harfi bilan boshlangan davlatlarni bitta arrayga olib Mamlakatlar royhatidan ochiring.
 
-4.Mamlakatlar ichidan C harfi bilan boshlangan davlatlarni bitta arrayga olib Mamlakatlar ro'yhatidan o'chiring.
+4.Mamlakatlar ichidan C harfi bilan boshlangan davlatlarni bitta arrayga olib Mamlakatlar royhatidan ochiring.
 
-5.Mamlakatlar ro'yhatidan yuqoridagi 4 va 6 belgidan iborati va "G" va "C" harflari bilan boshlanganlarini chiqarib tashlab consolega chiqaring.
+5.Mamlakatlar royhatidan yuqoridagi 4 va 6 belgidan iborati va "G" va "C" harflari bilan boshlanganlarini chiqarib tashlab consolega chiqaring.
 */
 
 
