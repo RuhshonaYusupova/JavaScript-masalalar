@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.accordion {
+  width: 800px;
+  height: 400px;
+  margin: 100px auto;
+  padding: 30px;
+}
+
+.accordion .item {
+  -webkit-box-shadow: 0 0 3px #333;
+          box-shadow: 0 0 3px #333;
+  padding: 5px;
+}
+
+.accordion .item .itemHead {
+  padding: 5px;
+}
+
+.accordion .item .itemBody {
+  -webkit-transition: 1s;
+  transition: 1s;
+  height: 0;
+  padding: 5px;
+  overflow: hidden;
+}
+
+.accordion .item .itemBody p {
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+.accordion .item.active .itemBody {
+  height: auto;
+}
+/*# sourceMappingURL=style.css.map */
